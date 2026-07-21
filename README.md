@@ -42,76 +42,46 @@
 
         ### 🌟 Proyectos destacados
 
-        <table>
-          <tr>
-            <td width="50%" valign="top">
-     
-              **🔥 [GasLeak-v0.1](https://github.com/TMSchipmann/GasLeak-v0.1)**
+        **🔥 [GasLeak-v0.1](https://github.com/TMSchipmann/GasLeak-v0.1)**
         App Android (Kotlin) para detectar fugas de gas en tiempo real usando ESP32, sensores MQ y Firebase.
         `Kotlin` `ESP32` `Firebase`
-     
-        </td>
-        <td width="50%" valign="top">
-     
-          **🔮 AstroAI**
+
+        **🔮 AstroAI**
         Plataforma de interpretación de cartas natales construida con Next.js + TypeScript y Gemini API.
         `Next.js` `TypeScript` `Gemini API`
-     
-        </td>
-        </td>tr>
-        <tr>
-          <td width="50%" valign="top">
-     
-            **⛏️ MineOC**
+
+        **⛏️ MineOC**
         Sistema de gestión de recepción de OC para clientes del sector minero/industrial.
         `Next.js 14` `Supabase` `Vercel`
-     
-        </td>
-        <td width="50%" valign="top">
-     
-          **💰 FinCoach**
+
+        **💰 FinCoach**
         App de coaching financiero enfocada en el nicho de expatriados Chile ↔ Alemania, con motor de scoring financiero ponderado.
         `Next.js 14` `TypeScript` `Tailwind` `Supabase`
-     
-        </td>
-        </td>tr>
-        <tr>
-          <td width="50%" valign="top">
-     
-            **📊 PolyBot V4**
+
+        **📊 PolyBot V4**
         Bot de paper trading en Python para Polymarket con dashboard en tiempo real.
         `Python` `Trading Bot`
-     
-        </td>
-        <td width="50%" valign="top">
-     
-          **🛒 vaultwear.cl**
+
+        **🛒 vaultwear.cl**
         SPA de e-commerce construida con PHP y MySQL.
         `PHP` `MySQL`
-     
-        </td>
-        </td>tr>
-        </td>table>
-     
+
         ---
-     
+
         ### 📊 GitHub Stats
-     
+
         <div align="center">
-     
-          <img height="165" src="https://github-readme-stats.vercel.app/api?username=TMSchipmann&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
-          <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TMSchipmann&layout=compact&theme=tokyonight&hide_border=true" />
-     
-          </div>
-     
-          ---
-     
+
+        <img height="165" src="https://github-readme-stats.vercel.app/api?username=TMSchipmann&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
+        <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TMSchipmann&layout=compact&theme=tokyonight&hide_border=true" />
+
+        </div>
+
+        ---
+
         <div align="center">
-     
-          💬 Hablemos de proyectos, IA aplicada o nuevas oportunidades — **¡contáctame!**
-     
+
+        💬 Hablemos de proyectos, IA aplicada o nuevas oportunidades — **¡contáctame!**
+
         </div>
         
-        </tr>
-          </tr>
-        </table>
