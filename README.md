@@ -15,7 +15,6 @@
 ### 🚀 Sobre mí
 
 - 🎓 Ingeniero Civil Informático, titulado **Cum Laude** (UNAB, 2026)
-- - 🏢 Fundador de **Technologies Plus SpA** — desarrollo web para PYMEs y transporte de carga para el sector minero/industrial
   - - 💻 Construyo productos de punta a punta: desde la idea hasta producción, usando **Claude Code** y **Gemini API** como parte de mi flujo diario
     - - 🌎 Trabajo en español e inglés — abierto a oportunidades en empresas *tech-forward* y *AI-first*
       - - 📈 Patrón constante: identificar nichos digitales desatendidos y construir soluciones reales para ellos
